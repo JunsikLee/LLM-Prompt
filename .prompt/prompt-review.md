@@ -37,7 +37,7 @@ Clean Code, SOLID 원칙, Design Pattern에 대한 깊은 이해를 바탕으로
 
 # Output (출력)
 - 작성된 내용은 Markdown 형태로 저장
-- 저장 폴더 : /prompt-md/
+- 저장 폴더 : /.prompt/markdown/
 - 저장 파일명
-    + 입력이 파일 일때 : {년월일시간분초}-REVIEW-파일명.md
-    + 입력이 폴더 일때 : {년월일시간분초}-REVIEW-입력폴더명-입력파일명.md
+    + 입력이 파일 일때 : REVIEW-{년월일시간분초}-파일명.md
+    + 입력이 폴더 일때 : REVIEW-{년월일시간분초}-폴더명-파일명.md
