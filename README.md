@@ -1,13 +1,19 @@
 # LLM-Prompt
 - LLM 작업 지시서 모음
 
+### 폴더 생성
+```
+mkdir .prompt
+cd .prompt
+```
+
 #### 기술 문서 생성 Prompt (2025-12-17)
 ```bash
-https://raw.githubusercontent.com/JunsikLee/LLM-Prompt/refs/heads/main/.prompt/prompt-doc.md
+wget https://raw.githubusercontent.com/JunsikLee/LLM-Prompt/refs/heads/main/.prompt/prompt-doc.md
 ```
 
 #### 코드 리뷰 문서 생성 Prompt (2025-12-17)
 ```bash
-https://raw.githubusercontent.com/JunsikLee/LLM-Prompt/refs/heads/main/.prompt/prompt-review.md
+wget https://raw.githubusercontent.com/JunsikLee/LLM-Prompt/refs/heads/main/.prompt/prompt-review.md
 ```
 
